@@ -1,0 +1,25 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Envelope
+
+File name:
+    DE.txt
+
+Method:
+    AES
+    RSA
+
+Key length:
+    10
+    0400
+
+Envelope data:
+    LNS8DM0pDf+WWE5CtNmPjI1mYhNcMoJ7gZ+nOeLIR04L4/Dv4sctqFigSTkUvI0wGa32M6/f3eUH/TRZb6zas4DN458ywxiDuAvWv878JYmo1rCFCcPf6uC6otL2T1JVKsv3d5mlmxUUIBUdw/f430ue7eE9Gar9jmqwHcC2XOM=
+
+Envelope crypt key:
+    XxU/5rkRdzQfftYywaaAQhcV5465MjyEWyO6lXR5l0K2H2BzQC9xTj80DqeIugaGcTiZeIpcFazR+DM8dyEoGLTQrwhLcbpoQj0sO/+qv4HTlLOK/dgpfUiiddIXwrDjWFJ6gghH0wjBn+KVFWvKikrUKpQFtbVjiCkaN7WvNjc=
+
+Initialization vector:
+    f9bb4976db06fb82c968632d829346f6
+
+---END OS2 CRYPTO DATA---
